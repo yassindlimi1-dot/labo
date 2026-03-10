@@ -18,7 +18,7 @@ import { Component } from '@angular/core';
             <a href="#services" class="btn-primary bg-white text-primary-600 hover:bg-gray-100">
               Découvrir nos services
             </a>
-            <a href="#contact" class="btn-secondary border-white text-white hover:bg-primary-600">
+            <a href="#contact" class="btn-secondary border-white text-black hover:bg-primary-600">
               Nous contacter
             </a>
           </div>
